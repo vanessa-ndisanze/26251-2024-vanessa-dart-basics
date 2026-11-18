@@ -1,4 +1,4 @@
-\## Done
+ Done
 
 B1: String methods and interpolation trace
 
@@ -6,11 +6,7 @@ B2: countVowels function and case-sensitivity explanation
 
 B3: initials function with whitespace handling
 
-
-
-
-
-\## In progress
+In progress
 
 
 
@@ -41,8 +37,7 @@ G: Debugging log and final reflection
 answers.pdf: Completed all write-up answers and outputs
 
 
-
-\## Stuck on
+ Stuck on
 
 \- None
 
