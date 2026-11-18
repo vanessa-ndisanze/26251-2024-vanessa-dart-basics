@@ -1,5 +1,4 @@
  Done
-
 B1: String methods and interpolation trace
 
 B2: countVowels function and case-sensitivity explanation
