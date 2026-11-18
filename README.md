@@ -3,7 +3,7 @@
 - **Full Name:** Ndisanze Girimpundu Vanessa
 - **Registration Number:** 26251
 - **Personal Numbers:** D = 1, T = 51
-- **GitHub Username:** `<your-github-username>`
+- **GitHub Username:** vanessa-ndisanze
 
 ## Repository Files
 - `dart_basics.dart` — Solutions for Parts B2, B3, C5, and D2
